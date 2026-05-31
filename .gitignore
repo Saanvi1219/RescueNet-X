@@ -1,0 +1,6 @@
+**pycache**/
+.ipynb_checkpoints/
+*.pyc
+*.pth
+*.zip
+.DS_Store
