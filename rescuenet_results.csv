@@ -1,0 +1,6 @@
+Module,Result
+Face Encoder,Embeddings Generated
+Age-Invariant Learning,Age Robust Matching
+Trajectory LSTM,91.35% Accuracy
+Multi-Graph GNN,Top-3 Zone Ranking
+Multimodal Fusion,82.61% Confidence
